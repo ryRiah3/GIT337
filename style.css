@@ -1,0 +1,6 @@
+h1 {
+    color: darkolivegreen; /* First declaration */
+    font-size: 36px; /* Second declaration */
+    font-family: Arial, Helvetica, sans-serif;  /* Third declaration */
+    text-align: center; /* Fourth declaration */
+}
